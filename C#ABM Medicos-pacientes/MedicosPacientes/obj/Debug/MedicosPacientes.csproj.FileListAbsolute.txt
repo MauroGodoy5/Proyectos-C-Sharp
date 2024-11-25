@@ -1,0 +1,10 @@
+C:\Users\causa\OneDrive\Escritorio\UTN\Programacion\Unidad 4\MedicosPacientes\bin\Debug\MedicosPacientes.exe.config
+C:\Users\causa\OneDrive\Escritorio\UTN\Programacion\Unidad 4\MedicosPacientes\bin\Debug\MedicosPacientes.exe
+C:\Users\causa\OneDrive\Escritorio\UTN\Programacion\Unidad 4\MedicosPacientes\bin\Debug\MedicosPacientes.pdb
+C:\Users\causa\OneDrive\Escritorio\UTN\Programacion\Unidad 4\MedicosPacientes\obj\Debug\MedicosPacientes.csprojAssemblyReference.cache
+C:\Users\causa\OneDrive\Escritorio\UTN\Programacion\Unidad 4\MedicosPacientes\obj\Debug\MedicosPacientes.frmClinica.resources
+C:\Users\causa\OneDrive\Escritorio\UTN\Programacion\Unidad 4\MedicosPacientes\obj\Debug\MedicosPacientes.Properties.Resources.resources
+C:\Users\causa\OneDrive\Escritorio\UTN\Programacion\Unidad 4\MedicosPacientes\obj\Debug\MedicosPacientes.csproj.GenerateResource.cache
+C:\Users\causa\OneDrive\Escritorio\UTN\Programacion\Unidad 4\MedicosPacientes\obj\Debug\MedicosPacientes.csproj.CoreCompileInputs.cache
+C:\Users\causa\OneDrive\Escritorio\UTN\Programacion\Unidad 4\MedicosPacientes\obj\Debug\MedicosPacientes.exe
+C:\Users\causa\OneDrive\Escritorio\UTN\Programacion\Unidad 4\MedicosPacientes\obj\Debug\MedicosPacientes.pdb

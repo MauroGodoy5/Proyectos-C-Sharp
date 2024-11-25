@@ -1,0 +1,27 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="desempeño2.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+
+             <h2> <a href="peliculas.aspx">Administracion de Peliculas</a>-
+            <a href="generos.aspx">Administracion de Generos</a>-
+            <a href="alquiler.aspx">Alquiler de Peliculas</a></h2> 
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+
+             <h3>Copyright 2023</h3>
+        </div>
+    </form>
+</body>
+</html>
